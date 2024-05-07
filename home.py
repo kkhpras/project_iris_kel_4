@@ -15,7 +15,7 @@ html_temp = """
 		<div style="background-color:#3872fb;padding:5px;border-radius:10px">
 		<h3 style="color:white;text-align:center;font-family:arial;">PJJ Data Analitik Spesialis III 2023</h3>
 		<h3 style="color:white;text-align:center;font-family:arial;">Iris Machine Learning</h3>
-		<h3 style="color:white;text-align:center;"></h3>
+        <h3 style="color:white;text-align:center;font-family:arial;">(Kelompok 4)</h3>
 		</div>
 		"""
 
